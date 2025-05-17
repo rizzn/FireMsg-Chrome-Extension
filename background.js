@@ -1,0 +1,1 @@
+// Background script placeholder for Firefox compatibility
